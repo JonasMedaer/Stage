@@ -1,7 +1,7 @@
-Department,Costs
-Sales,100
-It,50
-HR,3
-Plumbers,4
-Cantine,5
-Gym,6
+Department,Costs,Revenue
+Sales,"€ 10,000.00","€ 30,000.00"
+It,"€ 5,000.00","€ 15,000.00"
+HR,"€ 1,500.00","€ 2,000.00"
+Plumbers,€ 100.00,-€ 100.00
+Food,"€ 6,000.00","-€ 5,500.00"
+Gym,"€ 8,450.00","€ 6,000.00"
